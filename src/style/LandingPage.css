@@ -1,0 +1,94 @@
+.myBG {
+  height: 50vh;
+  /*background: url("../assets/images/bg/main.jpg");*/
+  background: url("../assets/images/bg/main.jpg");
+  background-color: black;
+  /*background-size: cover;*/
+}
+
+.navbar{
+  font-size: 20px;
+}
+
+.navbar .Brand{
+  font-size: 200px;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end; 
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  /*background: url("../assets/images/bg/black\ bg.webp");*/
+  background: url("../assets/images/bg/coba2.jpg");
+  background-color: black;
+  /*border-top: 0.05cm;
+  border-style: solid;
+  border-bottom-left-radius: 0;*/
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background: url("../assets/images/bg/black\ bg.webp");
+  background-size: cover;
+}
+
+.cartoon{
+  background-color: black;
+  background-size: cover;
+}
+
+.text-content {
+  height: 375px;
+  background-color: rgba(33,37,41);
+}
+
+.movieWrapper {
+  background-color: black;
+  padding: 1rem;
+}
+
+.cartoon .movieWrapper  {
+  background-color: aliceblue;
+  padding: 1rem;
+}
+
+.superhero .movieWrapper  {
+  background-color: rgb(128, 154, 176);
+  padding: 1rem;
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.Images{
+  height: 500px;
+}
+
+.movieTitle {
+  font-size: 24px;
+}
+
+.vote-average{
+  font-size: 18px;
+}
+
+.overview{
+  font-size: 16px;
+}
